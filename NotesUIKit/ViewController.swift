@@ -31,7 +31,6 @@ class ViewController: UITableViewController {
             } else {
                 navigationController?.pushViewController(vc, animated: false)
             }
-
         }
     }
 
