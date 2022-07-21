@@ -13,6 +13,8 @@
 		DF98351428895D450034BAB0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF98351228895D450034BAB0 /* Main.storyboard */; };
 		DF98351628895D470034BAB0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DF98351528895D470034BAB0 /* Assets.xcassets */; };
 		DF98351928895D470034BAB0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DF98351728895D470034BAB0 /* LaunchScreen.storyboard */; };
+		DFCAC9D8288973E7001D7374 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCAC9D7288973E7001D7374 /* Note.swift */; };
+		DFCAC9DC288974CE001D7374 /* NoteViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DFCAC9DB288974CE001D7374 /* NoteViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DF98351528895D470034BAB0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DF98351828895D470034BAB0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DF98351A28895D470034BAB0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DFCAC9D7288973E7001D7374 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		DFCAC9DB288974CE001D7374 /* NoteViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +65,8 @@
 				DF98350C28895D450034BAB0 /* AppDelegate.swift */,
 				DF98350E28895D450034BAB0 /* SceneDelegate.swift */,
 				DF98351028895D450034BAB0 /* ViewController.swift */,
+				DFCAC9DB288974CE001D7374 /* NoteViewController.swift */,
+				DFCAC9D7288973E7001D7374 /* Note.swift */,
 				DF98351228895D450034BAB0 /* Main.storyboard */,
 				DF98351728895D470034BAB0 /* LaunchScreen.storyboard */,
 			);
@@ -141,6 +147,8 @@
 				DF98351128895D450034BAB0 /* ViewController.swift in Sources */,
 				DF98350D28895D450034BAB0 /* AppDelegate.swift in Sources */,
 				DF98350F28895D450034BAB0 /* SceneDelegate.swift in Sources */,
+				DFCAC9DC288974CE001D7374 /* NoteViewController.swift in Sources */,
+				DFCAC9D8288973E7001D7374 /* Note.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
